@@ -1,0 +1,7 @@
+# Algorytmy-sortowania
+Implementacja różnych algorytmów sortujących takich jak:
+1. SORTOWANIE PRZEZ WSTAWIANIE
+2. SORTOWANIE SZYBKIE
+3. SORTOWANIE PRZEZ KOPCOWANIE
+4. SORTOWANIE PRZEZ SCALANIE
+5. WYBOR WG ALGORYTMU HOARE'A
